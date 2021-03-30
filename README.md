@@ -2,8 +2,77 @@
 
 Nama  : Hasan Maulana...              NIM   : 311910167...                Kelas : TI 19 A 1
                                 PEMROGRAMAN WEB
-                        " Tugas Praktikum 1 : HTML Dasar "
+                        " Tugas Praktikum 1 : HTML Dasar ".
+                        
+- isi dari README.MD ini berupa :
+A. pertanyaan" berikut ini :
+   Jawab Pertanyaan Berikut :
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
+error ketika terjadi kesalahan penulisan tag?
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+B. Instruksi Praktikum mengikuti modul yang telah diberikan oleh dosen pengampu. . .
+
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
+error ketika terjadi kesalahan penulisan tag?
+dan pada validasi ini, sy sdh memberikan nya tag" pada praktikum nya tersebut.. adapun untuk tag" nya sy memakai beberapa tag, 
+adapun tag tersebut yaitu :
+- tag HTML (<...>) : <p>, <body>, <head>, <img>.
+- tag heading : <h1>...</h1>, <h2>...</h2>, <h3>...</h3
+- tag paragraf : <hr>
+- tag untuk memformat teks : <mark>...</mark>, <b>...</b>, <i>...</i>, <ins>...</ins>
+- tag image : src, width, title
+- tag komentar :<!...>
+
+dan berikut gambar error' nya...
+![14](https://user-images.githubusercontent.com/56497286/112986046-332cfc80-918b-11eb-8293-08a0e6a57540.png)
+![14a](https://user-images.githubusercontent.com/56497286/112986137-55267f00-918b-11eb-8799-9a3d7aee02c4.png)
+![14b](https://user-images.githubusercontent.com/56497286/112986190-65d6f500-918b-11eb-9060-08b4dee084ed.png)
+![14c](https://user-images.githubusercontent.com/56497286/112986254-77200180-918b-11eb-8d9c-3c92a28ff8a2.png)
+![14d](https://user-images.githubusercontent.com/56497286/112986273-7e470f80-918b-11eb-8b2d-1e627ee18063.png)
+![14e](https://user-images.githubusercontent.com/56497286/112986302-869f4a80-918b-11eb-9a6a-02723e2c384c.png)
+
+2. bedanya adalah baris baru yang dihasilkan tanpa memberi jarak dengan baris diatasnya.
+Jadi perbedaan yang mencolok dari kedua tag ini adalah pada jarak yang terbentuk.
+Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag <br/> , tapi jika sobat ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka bungkuslah paragraf baru tersebut dengan sepasang tag <p>  dan </p>.
+![15a](https://user-images.githubusercontent.com/56497286/112990101-dd0e8800-918f-11eb-93a5-c6328b00efb0.png)
+![15b](https://user-images.githubusercontent.com/56497286/112990117-e566c300-918f-11eb-92a9-241753c5d553.png)
+
+3. Itu karena keduanya memiliki tujuan yang berbeda dan keduanya harus digunakan tidak hanya satu di atas yang lain.
+"Alt" adalah untuk apa yang sudah Anda katakan, jadi Anda dapat melihat tentang apa gambar itu jika gambar itu tidak dapat ditampilkan (untuk alasan apa pun), ini juga memungkinkan orang yang memiliki gangguan penglihatan untuk memahami tentang apa gambar itu.
+
+"title" adalah yang benar untuk menampilkan tooltip dengan judul gambar.
+
+4. ketika gambar yang kita upload menggunakan width dan heigth ingin tampilan gambar nya proporsional tersebut tidak perlu di isi atribut wigth dan heigth nya, 
+tapi sebaik nya di tambahkan saja agar ukuran gambar tetap konsisten..
+
+5. Menggunakan Atribut target
+Atribut ini berfungsi untuk menentukan target dari pembukaan link. Ada beberapa target yang biasanya digunakan:
+
+_blank akan membuka link pada jendela atau tab baru;
+_self akan membuka link pada halaman itu sendiri (default target);
+_top menuju bagian paling atas pada halaman;
+_parent membuka link pada frame induk;
+![16](https://user-images.githubusercontent.com/56497286/113021588-f32b4100-91ad-11eb-918a-3966152abe0b.png)
+![16a](https://user-images.githubusercontent.com/56497286/113021638-fd4d3f80-91ad-11eb-9a61-8d1df18373b4.png)
+![16b](https://user-images.githubusercontent.com/56497286/113021669-04744d80-91ae-11eb-894a-a22a4b627b49.png)
+contoh atribut _blank
+
+![17](https://user-images.githubusercontent.com/56497286/113022332-af850700-91ae-11eb-9057-9c360103dd29.png)
+![17a](https://user-images.githubusercontent.com/56497286/113022375-bc095f80-91ae-11eb-8539-4ff29c183f1a.png)
+![17b](https://user-images.githubusercontent.com/56497286/113022406-c4619a80-91ae-11eb-9f5d-6ca9c60ac70e.png)
+contoh atribut _parent
         
+- cukup sekian penjelasan dari 5 soal nya.. 
+- selanjutnya di bawah ini adalah pemjelasan serta instrusi praktikum...
+- .
+- .
+
 disini saya ingin memberikan Langkah-langkah praktikum nya . . 
 adapun sebelum memulai Praktikum ini, lebih baik nya kita sudah mempersiapkan apa yang di perlukan ketika praktikum ini, yaitu ...
 - Visual Studio Code (Versi apapun)
@@ -18,7 +87,7 @@ Instruksi Praktikum :
 4. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 5. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 
-                                                     Langkah2 Praktikum
+                                              Langkah2 Praktikum
 - siapin VSCode sama browser nya 
 ![Selamat Datang Di VSCode](https://user-images.githubusercontent.com/56497286/112858559-2e5d3f80-90dc-11eb-8c80-a6e6d23d1f15.png)
 
