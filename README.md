@@ -29,7 +29,7 @@ HTML nya ya . . .
 
 selanjutnya, buka file yang barusan kita buat tersebut pada web browser misalnya, sy menggunakan Mozilla Firefox, boleh apa saja, yang penting bisa run.
 ![Web Browser Mozilla Firefox](https://user-images.githubusercontent.com/56497286/112859905-8183c200-90dd-11eb-8b43-7db7385938b0.png)
-
+.
 
 1. Membuat Paragraf
 Selanjutnya buatlah beberapa paragraf sederhana pada VSCode kalian seperti contoh berikut ini :
