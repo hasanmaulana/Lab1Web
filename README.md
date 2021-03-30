@@ -1,7 +1,7 @@
                           Assalamu'alaikm Warahmatullahi Wabarakatuh . . .  
 
 Nama  : Hasan Maulana...              NIM   : 311910167...                Kelas : TI 19 A 1
-                                PEMROGRAMAN WEB
+                                PEMROGRAMAN WEB...
                         " Tugas Praktikum 1 : HTML Dasar ".
                         
 - isi dari README.MD ini berupa :
