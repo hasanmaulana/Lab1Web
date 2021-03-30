@@ -1,6 +1,6 @@
-Assalamu'alaikm Warahmatullahi Wabarakatuh . . .  
+                          Assalamu'alaikm Warahmatullahi Wabarakatuh . . .  
 
-Nama  : Hasan Maulana           NIM   : 311910167               Kelas : TI 19 A 1
+Nama  : Hasan Maulana...              NIM   : 311910167...                Kelas : TI 19 A 1
                                 PEMROGRAMAN WEB
                         " Tugas Praktikum 1 : HTML Dasar "
         
