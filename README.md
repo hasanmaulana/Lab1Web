@@ -70,10 +70,31 @@ Lakukan pemformatan teks yang ada pada paragraf sesuai keinginan anda . ..
 ![11](https://user-images.githubusercontent.com/56497286/112870332-4b980b00-90e8-11eb-9484-38294f1896de.png)
                 ![11a](https://user-images.githubusercontent.com/56497286/112870572-8d28b600-90e8-11eb-9d2f-7c3ef2c549fb.png)
 
+untuk selanjutnya kita bisa melakukan eksperimen lainnya dengan tag-tag pemformatan teks yang ada..
 
 
+4. Menyisipkan Gambar
+Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian 
+simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan 
+gambar dari website external, disini saya ingin memberi contoh menggunakan Logo UPB.
+![12a](https://user-images.githubusercontent.com/56497286/112919714-d0f3dd80-9131-11eb-8280-d2a97abfee1d.png)
 
+kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.
+![12b](https://user-images.githubusercontent.com/56497286/112919794-f8e34100-9131-11eb-82c1-f41bd24b4b29.png)
 
+Setelah itu simpan perubahannya ya, kemudian refresh browser yang kalian pakai.
+disini saya menempatkan gambar pada posisi center dan menggunakan width dgn ukuran 350...
+![12c](https://user-images.githubusercontent.com/56497286/112919863-16b0a600-9132-11eb-88e4-c85e21b5c7ea.png)
+
+5. Menambahkan Hyperlink
+Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+![13](https://user-images.githubusercontent.com/56497286/112920427-2086d900-9133-11eb-9396-d4eba5d82c7a.png)
+![13a](https://user-images.githubusercontent.com/56497286/112920444-2c729b00-9133-11eb-8bf3-e7d55c60ff46.png)
+
+yg terakhir Lakukan validasi dokumen html dengan mengakses http://validator.w3.org untuk mengetahui dimana error' ketika kita menuliskan tag.
+
+silahkan dicoba, semoga bermanfaat..
+Terima Kasih...
 
 
 
